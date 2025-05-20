@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+#hoverDiv {
+  background-color: lightgray;
+  padding: 10px;
+  width: 200px;
+  margin-top: 10px;
+}
+
+#accordionContent {
+  display: none;
+  margin-top: 10px;
+  background-color: #eee;
+  padding: 10px;
+}
